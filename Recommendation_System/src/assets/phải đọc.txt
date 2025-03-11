@@ -1,0 +1,1 @@
+file này là file để chứa các dữ liệu hình ảnh gốc của dự án thôi không cần quan tâm nhiều đâu

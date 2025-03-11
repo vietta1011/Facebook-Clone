@@ -1,0 +1,1 @@
+đây là file chứa các css mà các components khác sử dụng thôi chứ cũng không có gì

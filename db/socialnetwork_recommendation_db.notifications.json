@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "676fdb3f901253ae597969a9"
+  },
+  "userRequestID": {
+    "$oid": "676fdb0f901253ae5979697d"
+  },
+  "userRecipientID": {
+    "$oid": "676fccca6b309e40b4b07f43"
+  },
+  "status": 2,
+  "seen": true,
+  "typeNoti": 0,
+  "postID": null,
+  "createdAt": {
+    "$date": "2024-12-28T11:04:31.888Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T11:05:35.134Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6775400bf14dec1c846f4d27"
+  },
+  "userRequestID": {
+    "$oid": "67753fa6f14dec1c846f4cec"
+  },
+  "userRecipientID": {
+    "$oid": "676fccca6b309e40b4b07f43"
+  },
+  "status": 4,
+  "seen": false,
+  "typeNoti": 1,
+  "postID": {
+    "$oid": "676fdae4901253ae5979696e"
+  },
+  "createdAt": {
+    "$date": "2025-01-01T13:15:55.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T13:15:55.601Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bb2fd8d9707e495aa5d08e"
+  },
+  "userRequestID": {
+    "$oid": "67bb2f81d9707e495aa5d05e"
+  },
+  "userRecipientID": {
+    "$oid": "676fccca6b309e40b4b07f43"
+  },
+  "status": 4,
+  "seen": false,
+  "typeNoti": 1,
+  "postID": {
+    "$oid": "676fdae4901253ae5979696e"
+  },
+  "createdAt": {
+    "$date": "2025-02-23T14:25:28.910Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T14:25:28.910Z"
+  },
+  "__v": 0
+}]

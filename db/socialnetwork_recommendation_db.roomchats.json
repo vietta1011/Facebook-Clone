@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "676fdb82901253ae597969c3"
+  },
+  "members": [
+    {
+      "$oid": "676fccca6b309e40b4b07f43"
+    },
+    {
+      "$oid": "676fdb0f901253ae5979697d"
+    }
+  ],
+  "name": null,
+  "avatar": {
+    "imageURL": null,
+    "cloudinaryID": null
+  },
+  "createdAt": {
+    "$date": "2024-12-28T11:05:38.959Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T11:05:38.959Z"
+  },
+  "__v": 0
+}]

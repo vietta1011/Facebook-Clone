@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "676fdbf3901253ae59796a02"
+  },
+  "reactType": 6,
+  "post": 2,
+  "owner": 2,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67754006f14dec1c846f4d13"
+  },
+  "reactType": 6,
+  "post": 2,
+  "owner": 3,
+  "__v": 0
+}]

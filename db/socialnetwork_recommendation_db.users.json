@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "676fccca6b309e40b4b07f43"
+  },
+  "userID": 1,
+  "email": "dung@gmail.com",
+  "userName": "dung",
+  "userNameEng": "dung",
+  "password": "$2a$08$6xAKAwR9WXzgpOJsNKsvvO2x3mCKdyEbBTNqTKkWLPho8966mCufO",
+  "phoneNumber": "038888888",
+  "gender": 0,
+  "dateOfBirth": {
+    "$date": "2024-11-26T17:00:00.000Z"
+  },
+  "avatar": {
+    "imageURL": "https://res.cloudinary.com/visonetcloud/image/upload/v1640571720/Image%20Default/default-avatar_a46464.jpg",
+    "cloudinaryID": "Image%20Default/default-avatar_a46464"
+  },
+  "background": {
+    "imageURL": "https://res.cloudinary.com/visonetcloud/image/upload/v1640572094/Image%20Default/default-background-user_jr95uh.jpg",
+    "cloudinaryID": "Image%20Default/default-background-user_jr95uh"
+  },
+  "hometown": null,
+  "ethnic": null,
+  "religion": null,
+  "nationality": null,
+  "quotes": null,
+  "friends": [
+    {
+      "$oid": "676fdb0f901253ae5979697d"
+    }
+  ],
+  "groups": [],
+  "roles": [
+    {
+      "$oid": "676fbe2c6843ab4ddb4a540a"
+    }
+  ],
+  "socketID": "",
+  "isOnline": false,
+  "createdAt": {
+    "$date": "2024-12-28T10:02:50.904Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T13:13:16.743Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "676fdb0f901253ae5979697d"
+  },
+  "userID": 2,
+  "email": "dung2@gmail.com",
+  "userName": "dung2",
+  "userNameEng": "dung2",
+  "password": "$2a$08$6xIdfCN/4Oo8aUgaWasiQu7kh1B/c.yvAjVlBTOnhgLjhztnXLv9e",
+  "phoneNumber": "0399999",
+  "gender": 0,
+  "dateOfBirth": {
+    "$date": "2024-12-10T17:00:00.000Z"
+  },
+  "avatar": {
+    "imageURL": "https://res.cloudinary.com/visonetcloud/image/upload/v1640571720/Image%20Default/default-avatar_a46464.jpg",
+    "cloudinaryID": "Image%20Default/default-avatar_a46464"
+  },
+  "background": {
+    "imageURL": "https://res.cloudinary.com/visonetcloud/image/upload/v1640572094/Image%20Default/default-background-user_jr95uh.jpg",
+    "cloudinaryID": "Image%20Default/default-background-user_jr95uh"
+  },
+  "hometown": null,
+  "ethnic": null,
+  "religion": null,
+  "nationality": null,
+  "quotes": null,
+  "friends": [
+    {
+      "$oid": "676fccca6b309e40b4b07f43"
+    }
+  ],
+  "groups": [],
+  "roles": [
+    {
+      "$oid": "676fbe2c6843ab4ddb4a540a"
+    }
+  ],
+  "socketID": "",
+  "isOnline": false,
+  "createdAt": {
+    "$date": "2024-12-28T11:03:43.582Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T11:07:53.159Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67753fa6f14dec1c846f4cec"
+  },
+  "userID": 3,
+  "email": "Khanh@gmail.com",
+  "userName": "Khanh",
+  "userNameEng": "Khanh",
+  "password": "$2a$08$Qi54huJZB88Ql0LvfO7uWOtXWyGEl24/THNke55.2epQunRFRFISS",
+  "phoneNumber": "0999223",
+  "gender": 0,
+  "dateOfBirth": {
+    "$date": "1999-12-31T17:00:00.000Z"
+  },
+  "avatar": {
+    "imageURL": "https://res.cloudinary.com/visonetcloud/image/upload/v1640571720/Image%20Default/default-avatar_a46464.jpg",
+    "cloudinaryID": "Image%20Default/default-avatar_a46464"
+  },
+  "background": {
+    "imageURL": "https://res.cloudinary.com/visonetcloud/image/upload/v1640572094/Image%20Default/default-background-user_jr95uh.jpg",
+    "cloudinaryID": "Image%20Default/default-background-user_jr95uh"
+  },
+  "hometown": null,
+  "ethnic": null,
+  "religion": null,
+  "nationality": null,
+  "quotes": null,
+  "friends": [],
+  "groups": [],
+  "roles": [
+    {
+      "$oid": "676fbe2c6843ab4ddb4a540a"
+    }
+  ],
+  "socketID": null,
+  "isOnline": false,
+  "createdAt": {
+    "$date": "2025-01-01T13:14:14.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T13:14:14.455Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "67bb2f81d9707e495aa5d05e"
+  },
+  "userID": 4,
+  "email": "check@gmail.com",
+  "userName": "check",
+  "userNameEng": "check",
+  "password": "$2a$08$/iJseyac4SfrrZhl7HtZfORA72TCmhIqa5OfPYB4fXDGZRtAA48TG",
+  "phoneNumber": "0927236234",
+  "gender": 0,
+  "dateOfBirth": {
+    "$date": "2005-09-13T17:00:00.000Z"
+  },
+  "avatar": {
+    "imageURL": "https://res.cloudinary.com/visonetcloud/image/upload/v1640571720/Image%20Default/default-avatar_a46464.jpg",
+    "cloudinaryID": "Image%20Default/default-avatar_a46464"
+  },
+  "background": {
+    "imageURL": "https://res.cloudinary.com/visonetcloud/image/upload/v1640572094/Image%20Default/default-background-user_jr95uh.jpg",
+    "cloudinaryID": "Image%20Default/default-background-user_jr95uh"
+  },
+  "hometown": null,
+  "ethnic": null,
+  "religion": null,
+  "nationality": null,
+  "quotes": null,
+  "friends": [],
+  "groups": [],
+  "roles": [
+    {
+      "$oid": "676fbe2c6843ab4ddb4a540a"
+    }
+  ],
+  "socketID": "m6cL5nAIOYR5SiofAAAD",
+  "isOnline": true,
+  "createdAt": {
+    "$date": "2025-02-23T14:24:01.176Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T14:24:12.760Z"
+  },
+  "__v": 1
+}]

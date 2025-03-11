@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "676fdc0093126bd255e267fb"
+  },
+  "roomID": {
+    "$oid": "676fdb82901253ae597969c3"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2024-12-28T11:07:44.687Z"
+  },
+  "messages": [
+    {
+      "fromUserID": {
+        "$oid": "676fdb0f901253ae5979697d"
+      },
+      "content": "chao dung",
+      "image": [],
+      "createdAt": {
+        "$date": "2024-12-28T11:02:16.231Z"
+      },
+      "updatedAt": {
+        "$date": "2024-12-28T11:02:16.231Z"
+      },
+      "_id": {
+        "$oid": "676fdc00901253ae59796a10"
+      }
+    },
+    {
+      "fromUserID": {
+        "$oid": "676fccca6b309e40b4b07f43"
+      },
+      "content": "alo",
+      "image": [],
+      "createdAt": {
+        "$date": "2025-01-01T13:07:14.562Z"
+      },
+      "updatedAt": {
+        "$date": "2025-01-01T13:07:14.562Z"
+      },
+      "_id": {
+        "$oid": "67753f4ef14dec1c846f4ce4"
+      }
+    }
+  ],
+  "packSize": 2,
+  "updatedAt": {
+    "$date": "2025-01-01T13:12:46.525Z"
+  }
+}]

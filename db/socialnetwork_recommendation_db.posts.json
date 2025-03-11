@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "676fcd5f6b309e40b4b07f6e"
+  },
+  "postID": 1,
+  "owner": {
+    "$oid": "676fccca6b309e40b4b07f43"
+  },
+  "content": "chaof",
+  "image": [],
+  "belongToGroup": null,
+  "react": [],
+  "createdAt": {
+    "$date": "2024-12-28T10:05:19.856Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-28T10:05:19.856Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "676fdae4901253ae5979696e"
+  },
+  "postID": 2,
+  "owner": {
+    "$oid": "676fccca6b309e40b4b07f43"
+  },
+  "content": "hi",
+  "image": [
+    {
+      "imageURL": "https://res.cloudinary.com/dcf1r7kxj/image/upload/v1735383779/Post/yuxlf4pmmodr8o4zclla.jpg",
+      "cloudinaryID": "Post/yuxlf4pmmodr8o4zclla",
+      "resourceType": "image",
+      "_id": {
+        "$oid": "676fdae4901253ae5979696f"
+      }
+    }
+  ],
+  "belongToGroup": null,
+  "react": [
+    {
+      "userID": 2,
+      "reactType": 6,
+      "_id": {
+        "$oid": "676fdbf3901253ae59796a04"
+      }
+    },
+    {
+      "userID": 3,
+      "reactType": 6,
+      "_id": {
+        "$oid": "67754006f14dec1c846f4d15"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-12-28T11:03:00.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T13:15:51.652Z"
+  },
+  "__v": 0
+}]

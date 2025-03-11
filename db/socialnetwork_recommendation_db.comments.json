@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6775400bf14dec1c846f4d29"
+  },
+  "post": {
+    "$oid": "676fdae4901253ae5979696e"
+  },
+  "owner": {
+    "$oid": "67753fa6f14dec1c846f4cec"
+  },
+  "content": "hay qua",
+  "image": [],
+  "createdAt": {
+    "$date": "2025-01-01T13:15:55.625Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-01T13:15:55.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67bb2fd8d9707e495aa5d090"
+  },
+  "post": {
+    "$oid": "676fdae4901253ae5979696e"
+  },
+  "owner": {
+    "$oid": "67bb2f81d9707e495aa5d05e"
+  },
+  "content": "123",
+  "image": [],
+  "createdAt": {
+    "$date": "2025-02-23T14:25:28.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-23T14:25:28.927Z"
+  },
+  "__v": 0
+}]
